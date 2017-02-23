@@ -1,6 +1,7 @@
 {
     "name": "ramki34/storage",
     "description": "magento2 library module",
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
